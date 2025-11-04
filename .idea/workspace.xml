@@ -4,21 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ab64c81-6803-4395-8f86-999bb8fc20de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearningPh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CensorText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmailGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PasswordStrenghtChecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalBudgetCalculation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemperatureConversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeeklyMealPlanner.py" afterDir="false" />
+    <list default="true" id="6ab64c81-6803-4395-8f86-999bb8fc20de" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/AttendanceStatusChecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankWithdrawlSystem_EXCEPTIONS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoursePrerequisitesChecker_SETS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyTaskReminder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fleet_OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunWithPatterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GlossaryItem_OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuessCheck-inSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeartRateMonitoring_ARRAYS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeaderBoardGame_DICTIONARY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieTicketPriceCecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Inheritance1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Inheritance2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShoppingCart_OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PasswordChecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaymentProcessor_EXECEPTIONS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PersonalizedPlaylistManager_DICTIONARY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RGBColorPicker_TUPLES.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecentPurchaseHistory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingListFinder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmartPriceHandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialMediaHashtagOrganizer_SETS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamRoasterManagement_LISTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearningPh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearningPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,30 +57,69 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="31HZOkSU6N3o07Me3XZMGvB0ZBs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AttendanceStatusChecker.executor": "Run",
+    "Python.BankWithdrawlSystem_EXCEPTIONS.executor": "Run",
     "Python.CensorText.executor": "Run",
+    "Python.CoursePrerequisitesChecker_SETS.executor": "Run",
+    "Python.DailyTaskReminder.executor": "Run",
     "Python.EmailGenerator.executor": "Run",
+    "Python.Fleet_OOP.executor": "Run",
+    "Python.FunWithPatterns.executor": "Run",
+    "Python.GlossaryItem_OOP.executor": "Run",
+    "Python.GuessCheck-inSystem.executor": "Run",
+    "Python.HeartRateMonitoring_ARRAYS.executor": "Run",
+    "Python.LeaderBoardGame_DICTIONARY.executor": "Run",
     "Python.Main.executor": "Run",
+    "Python.MovieTicketPriceCecker.executor": "Run",
+    "Python.OOP.executor": "Run",
+    "Python.OOP1.executor": "Run",
+    "Python.OOP3.executor": "Run",
+    "Python.OOP_Abstraction.executor": "Run",
+    "Python.OOP_Inheritance.executor": "Run",
+    "Python.OOP_Inheritance1.executor": "Run",
+    "Python.OnlineShoppingCart_OOP.executor": "Run",
+    "Python.PasswordChecker.executor": "Run",
+    "Python.PasswordStrenghtChecker.executor": "Run",
+    "Python.PaymentProcessor_EXECEPTIONS.executor": "Run",
     "Python.PersonalBudgetCalculation.executor": "Run",
+    "Python.PersonalizedPlaylistManager_DICTIONARY.executor": "Run",
+    "Python.RGBColorPicker_TUPLES.executor": "Run",
+    "Python.RecentPurchaseHistory.executor": "Run",
+    "Python.ShoppingListFinder.executor": "Run",
+    "Python.SmartPriceHandler.executor": "Run",
+    "Python.SocialMediaHashtagOrganizer_SETS.executor": "Run",
+    "Python.TeamRoasterManagement_LISTS.executor": "Run",
     "Python.TemperatureConversion.executor": "Run",
     "Python.WeeklyMealPlanner.executor": "Run",
     "Python.regex_cheatsheet_examples.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master1",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Iza/PycharmProjects/LearningPh"
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Iza/Desktop/Phyton/LearningPh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -74,15 +131,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755182928949</updated>
+      <workItem from="1761923815130" duration="14147000" />
+      <workItem from="1762082278858" duration="3932000" />
+      <workItem from="1762172429595" duration="10579000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -93,10 +183,22 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Main.py</url>
-          <line>12</line>
+          <line>14</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningPy$OOP3.coverage" NAME="OOP3 Coverage Results" MODIFIED="1761923988803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$OOP_Abstraction.coverage" NAME="OOP_Abstraction Coverage Results" MODIFIED="1762014920387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$TeamRoasterManagement_LISTS.coverage" NAME="TeamRoasterManagement_LISTS Coverage Results" MODIFIED="1762176258864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$BankWithdrawlSystem_EXCEPTIONS.coverage" NAME="BankWithdrawlSystem_EXCEPTIONS Coverage Results" MODIFIED="1762184609956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$OOP_Inheritance.coverage" NAME="OOP_Inheritance Coverage Results" MODIFIED="1761930387271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$Fleet_OOP.coverage" NAME="Fleet_OOP Coverage Results" MODIFIED="1762088850063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$OOP_Inheritance1.coverage" NAME="OOP_Inheritance1 Coverage Results" MODIFIED="1761933146246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$PaymentProcessor_EXECEPTIONS.coverage" NAME="PaymentProcessor_EXECEPTIONS Coverage Results" MODIFIED="1762182152727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$OnlineShoppingCart_OOP.coverage" NAME="OnlineShoppingCart_OOP Coverage Results" MODIFIED="1762012640991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$GlossaryItem_OOP.coverage" NAME="GlossaryItem_OOP Coverage Results" MODIFIED="1762178621942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
