@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ab64c81-6803-4395-8f86-999bb8fc20de" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/AttendanceStatusChecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankWithdrawlSystem_EXCEPTIONS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoursePrerequisitesChecker_SETS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyTaskReminder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fleet_OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunWithPatterns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlossaryItem_OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GuessCheck-inSystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeartRateMonitoring_ARRAYS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeaderBoardGame_DICTIONARY.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieTicketPriceCecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Inheritance1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Inheritance2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShoppingCart_OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PasswordChecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentProcessor_EXECEPTIONS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalizedPlaylistManager_DICTIONARY.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RGBColorPicker_TUPLES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecentPurchaseHistory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShoppingListFinder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmartPriceHandler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SocialMediaHashtagOrganizer_SETS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeamRoasterManagement_LISTS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LearningPh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearningPy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +80,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -134,7 +104,17 @@
       <workItem from="1761923815130" duration="14147000" />
       <workItem from="1762082278858" duration="3932000" />
       <workItem from="1762172429595" duration="10579000" />
+      <workItem from="1762274976212" duration="1012000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1762275092311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762275092311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +157,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
