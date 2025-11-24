@@ -1,0 +1,4 @@
+DeviceId,Status,Timestamp
+CISCO 9012,online,2025-03-20:7:20:01
+CISCO 9013,online,2025-03-20:7:20:01
+CISCO 9014,offline,2025-03-20:7:20:01
