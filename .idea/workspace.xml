@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ab64c81-6803-4395-8f86-999bb8fc20de" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Data_Analysis_NumPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Food_Nutrition_Analyser_NumPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumpyBasics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicFileOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicFileOperation_IO.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,64 +50,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AttendanceStatusChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BankWithdrawlSystem_EXCEPTIONS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BasicFileOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CensorText.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CoursePrerequisitesChecker_SETS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DailyTaskReminder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Drone_Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EmailGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fleet_OOP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FunWithPatterns.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GlossaryItem_OOP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GuessCheck-inSystem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HeartRateMonitoring_ARRAYS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LeaderBoardGame_DICTIONARY.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MovieTicketPriceCecker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP_Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP_Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OOP_Inheritance1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OnlineShoppingCart_OOP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PasswordChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PasswordStrenghtChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PaymentProcessor_EXECEPTIONS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PersonalBudgetCalculation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PersonalizedPlaylistManager_DICTIONARY.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RGBColorPicker_TUPLES.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RecentPurchaseHistory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ShoppingListFinder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SmartPriceHandler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SocialMediaHashtagOrganizer_SETS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TeamRoasterManagement_LISTS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TemperatureConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WeeklyMealPlanner.executor&quot;: &quot;Run&quot;,
-    &quot;Python.regex_cheatsheet_examples.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Iza/Desktop/Phyton/LearningPh&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AttendanceStatusChecker.executor": "Run",
+    "Python.BankWithdrawlSystem_EXCEPTIONS.executor": "Run",
+    "Python.BasicFileOperation.executor": "Run",
+    "Python.CensorText.executor": "Run",
+    "Python.CoursePrerequisitesChecker_SETS.executor": "Run",
+    "Python.DailyTaskReminder.executor": "Run",
+    "Python.Data_Analysis_NumPy.executor": "Run",
+    "Python.Drone_Exceptions.executor": "Run",
+    "Python.EmailGenerator.executor": "Run",
+    "Python.Fleet_OOP.executor": "Run",
+    "Python.Food_Nutrition_Analyser_NumPy.executor": "Run",
+    "Python.FunWithPatterns.executor": "Run",
+    "Python.GlossaryItem_OOP.executor": "Run",
+    "Python.GuessCheck-inSystem.executor": "Run",
+    "Python.HeartRateMonitoring_ARRAYS.executor": "Run",
+    "Python.IO_csv.executor": "Run",
+    "Python.LeaderBoardGame_DICTIONARY.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.MovieTicketPriceCecker.executor": "Run",
+    "Python.NumpyBasics.executor": "Run",
+    "Python.OOP.executor": "Run",
+    "Python.OOP1.executor": "Run",
+    "Python.OOP3.executor": "Run",
+    "Python.OOP_Abstraction.executor": "Run",
+    "Python.OOP_Inheritance.executor": "Run",
+    "Python.OOP_Inheritance1.executor": "Run",
+    "Python.OnlineShoppingCart_OOP.executor": "Run",
+    "Python.PasswordChecker.executor": "Run",
+    "Python.PasswordStrenghtChecker.executor": "Run",
+    "Python.PaymentProcessor_EXECEPTIONS.executor": "Run",
+    "Python.PersonalBudgetCalculation.executor": "Run",
+    "Python.PersonalizedPlaylistManager_DICTIONARY.executor": "Run",
+    "Python.RGBColorPicker_TUPLES.executor": "Run",
+    "Python.RecentPurchaseHistory.executor": "Run",
+    "Python.ShoppingListFinder.executor": "Run",
+    "Python.SmartPriceHandler.executor": "Run",
+    "Python.SocialMediaHashtagOrganizer_SETS.executor": "Run",
+    "Python.TeamRoasterManagement_LISTS.executor": "Run",
+    "Python.TemperatureConversion.executor": "Run",
+    "Python.WeeklyMealPlanner.executor": "Run",
+    "Python.regex_cheatsheet_examples.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Iza/Desktop/Phyton/LearningPh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -127,7 +136,7 @@
       <workItem from="1763646578910" duration="6152000" />
       <workItem from="1763795549521" duration="31000" />
       <workItem from="1763911387382" duration="10000" />
-      <workItem from="1763911424036" duration="739000" />
+      <workItem from="1763911424036" duration="12817000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -161,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763653625577</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1763983777503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763983777503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,18 +238,22 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LearningPy$OOP_Abstraction.coverage" NAME="OOP_Abstraction Coverage Results" MODIFIED="1762014920387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$Main.coverage" NAME="Main Coverage Results" MODIFIED="1762276750661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$OOP_Abstraction.coverage" NAME="OOP_Abstraction Coverage Results" MODIFIED="1762014920387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$TeamRoasterManagement_LISTS.coverage" NAME="TeamRoasterManagement_LISTS Coverage Results" MODIFIED="1762176258864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$OOP_Inheritance.coverage" NAME="OOP_Inheritance Coverage Results" MODIFIED="1761930387271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$BasicFileOperation.coverage" NAME="BasicFileOperation Coverage Results" MODIFIED="1763653404180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$Data_Analysis_NumPy.coverage" NAME="Data_Analysis_NumPy Coverage Results" MODIFIED="1763995312909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$OnlineShoppingCart_OOP.coverage" NAME="OnlineShoppingCart_OOP Coverage Results" MODIFIED="1762012640991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$Drone_Exceptions.coverage" NAME="Drone_Exceptions Coverage Results" MODIFIED="1763649169179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$OOP3.coverage" NAME="OOP3 Coverage Results" MODIFIED="1761923988803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$BankWithdrawlSystem_EXCEPTIONS.coverage" NAME="BankWithdrawlSystem_EXCEPTIONS Coverage Results" MODIFIED="1762184609956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$NumpyBasics.coverage" NAME="NumpyBasics Coverage Results" MODIFIED="1763989045336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$Fleet_OOP.coverage" NAME="Fleet_OOP Coverage Results" MODIFIED="1762088850063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$OOP_Inheritance1.coverage" NAME="OOP_Inheritance1 Coverage Results" MODIFIED="1761933146246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$PaymentProcessor_EXECEPTIONS.coverage" NAME="PaymentProcessor_EXECEPTIONS Coverage Results" MODIFIED="1763646772086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$IO_csv.coverage" NAME="IO_csv Coverage Results" MODIFIED="1763985395258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$Food_Nutrition_Analyser_NumPy.coverage" NAME="Food_Nutrition_Analyser_NumPy Coverage Results" MODIFIED="1763998215729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$GlossaryItem_OOP.coverage" NAME="GlossaryItem_OOP Coverage Results" MODIFIED="1762178621942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
