@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ab64c81-6803-4395-8f86-999bb8fc20de" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Chi-Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataDistribution_NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LotteryNumberGenerator_NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathplotlib_Library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PermutedSequences_NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PopulationGrowthInEcosystem_NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PredictingEquipmentFailure_NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomNumberGeneration_NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeabornVisualisationLibrary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PandasLibrary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +79,7 @@
     "Python.OOP_Inheritance.executor": "Run",
     "Python.OOP_Inheritance1.executor": "Run",
     "Python.OnlineShoppingCart_OOP.executor": "Run",
+    "Python.PandasLibrary.executor": "Run",
     "Python.PasswordChecker.executor": "Run",
     "Python.PasswordStrenghtChecker.executor": "Run",
     "Python.PaymentProcessor_EXECEPTIONS.executor": "Run",
@@ -120,7 +113,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "settings.editor.selected.configurable": "database.data.views.appearance",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -150,7 +143,8 @@
       <workItem from="1763795549521" duration="31000" />
       <workItem from="1763911387382" duration="10000" />
       <workItem from="1763911424036" duration="12845000" />
-      <workItem from="1764225053424" duration="13989000" />
+      <workItem from="1764225053424" duration="14020000" />
+      <workItem from="1765027793660" duration="7004000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -208,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763999273492</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <option name="closed" value="true" />
+      <created>1764243338557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764243338557</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,5 +296,6 @@
     <SUITE FILE_PATH="coverage/LearningPy$IO_csv.coverage" NAME="IO_csv Coverage Results" MODIFIED="1763985395258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$Food_Nutrition_Analyser_NumPy.coverage" NAME="Food_Nutrition_Analyser_NumPy Coverage Results" MODIFIED="1763998215729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$LotteryNumberGenerator_NumPy.coverage" NAME="LotteryNumberGenerator_NumPy Coverage Results" MODIFIED="1764229067170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$PandasLibrary.coverage" NAME="PandasLibrary Coverage Results" MODIFIED="1765037435609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
