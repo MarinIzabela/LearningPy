@@ -1,0 +1,57 @@
+[
+  {
+    "name": "John",
+    "city": "New York",
+    "order": [
+      {
+        "item": "Pizza",
+        "price": 15.99,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Emma",
+    "city": "Chicago",
+    "order": [
+      {
+        "item": "Burger",
+        "price": 9.49,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Liam",
+    "city": "Los Angeles",
+    "order": [
+      {
+        "item": "Sushi",
+        "price": 22.50,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "name": "Sophia",
+    "city": "Houston",
+    "order": [
+      {
+        "item": "Pasta",
+        "price": 13.75,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Ethan",
+    "city": "Miami",
+    "order": [
+      {
+        "item": "Salad",
+        "price": 7.80,
+        "quantity": 1
+      }
+    ]
+  }
+]

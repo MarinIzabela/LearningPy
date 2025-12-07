@@ -4,7 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ab64c81-6803-4395-8f86-999bb8fc20de" name="Changes" comment="commit" />
+    <list default="true" id="6ab64c81-6803-4395-8f86-999bb8fc20de" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/22.JsonData_PANDAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.Preparing_Clean_Data_PANDAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_order_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales_data1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AttendanceStatusChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.AttendanceStatusChecker_OPERATORS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankWithdrawlSystem_EXCEPTIONS.py" beforeDir="false" afterPath="$PROJECT_DIR$/18.BankWithdrawlSystem_EXCEPTIONS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicFileOperation_IO.py" beforeDir="false" afterPath="$PROJECT_DIR$/19.BasicFileOperation_IO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CensorText.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.CensorText_DATA_TYPES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chi-Square.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.Chi-Square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursePrerequisitesChecker_SETS.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.CoursePrerequisitesChecker_SETS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DailyTaskReminder.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.DailyTaskReminder_LOOPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataDistribution_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.DataDistribution_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Analysis_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/20.Data_Analysis_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drone_Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/18.Drone_Exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.EmailGenerator_DATA_TYPE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fleet_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Fleet_OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Food_Nutrition_Analyser_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/20.Food_Nutrition_Analyser_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunWithPatterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.FunWithPatterns_LOOPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlossaryItem_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.GlossaryItem_OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessCheck-inSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.GuessCheck-inSystem_LOOPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeartRateMonitoring_ARRAYS.py" beforeDir="false" afterPath="$PROJECT_DIR$/15.HeartRateMonitoring_ARRAYS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/19.IO_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeaderBoardGame_DICTIONARY.py" beforeDir="false" afterPath="$PROJECT_DIR$/14.LeaderBoardGame_DICTIONARY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LotteryNumberGenerator_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.LotteryNumberGenerator_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mathplotlib_Library.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.Mathplotlib_Library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieTicketPriceCecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MovieTicketPriceCecker_CONDITIONAL_STATEMENTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumpyBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/20.NumpyBasics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP1.py" beforeDir="false" afterPath="$PROJECT_DIR$/16.OOP1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP2.py" beforeDir="false" afterPath="$PROJECT_DIR$/16.OOP2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP3.py" beforeDir="false" afterPath="$PROJECT_DIR$/16.OOP3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.OOP_Abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Inheritance1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.OOP_Inheritance1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Inheritance2.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.OOP_Inheritance2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShoppingCart_OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.OnlineShoppingCart_OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasLibrary.py" beforeDir="false" afterPath="$PROJECT_DIR$/22.PandasLibrary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.PasswordChecker_OPERATORS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordStrenghtChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.PasswordStrenghtChecker_OPERATORS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaymentProcessor_EXECEPTIONS.py" beforeDir="false" afterPath="$PROJECT_DIR$/18.PaymentProcessor_EXECEPTIONS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PermutedSequences_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.PermutedSequences_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalBudgetCalculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.PersonalBudgetCalculation_VARIABLES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalizedPlaylistManager_DICTIONARY.py" beforeDir="false" afterPath="$PROJECT_DIR$/14.PersonalizedPlaylistManager_DICTIONARY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopulationGrowthInEcosystem_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.PopulationGrowthInEcosystem_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictingEquipmentFailure_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.PredictingEquipmentFailure_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RGBColorPicker_TUPLES.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.RGBColorPicker_TUPLES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomNumberGeneration_NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.RandomNumberGeneration_NumPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecentPurchaseHistory.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.RecentPurchaseHistory_LISTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeabornVisualisationLibrary.py" beforeDir="false" afterPath="$PROJECT_DIR$/21.SeabornVisualisationLibrary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingListFinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.ShoppingListFinder_OPERAATORS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartPriceHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.SmartPriceHandler_FUNCTIONS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SocialMediaHashtagOrganizer_SETS.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.SocialMediaHashtagOrganizer_SETS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamRoasterManagement_LISTS.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.TeamRoasterManagement_LISTS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemperatureConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TemperatureConversion_VARIABLES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeeklyMealPlanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.WeeklyMealPlanner_DATA_TYPES.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +118,7 @@
     "Python.GuessCheck-inSystem.executor": "Run",
     "Python.HeartRateMonitoring_ARRAYS.executor": "Run",
     "Python.IO_csv.executor": "Run",
+    "Python.JsonData_PANDAS.executor": "Run",
     "Python.LeaderBoardGame_DICTIONARY.executor": "Run",
     "Python.LotteryNumberGenerator_NumPy.executor": "Run",
     "Python.Main.executor": "Run",
@@ -85,6 +141,7 @@
     "Python.PersonalizedPlaylistManager_DICTIONARY.executor": "Run",
     "Python.PopulationGrowthInEcosystem_NumPy.executor": "Run",
     "Python.PredictingEquipmentFailure_NumPy.executor": "Run",
+    "Python.Preparing_Clean_Data_PANDAS.executor": "Run",
     "Python.RGBColorPicker_TUPLES.executor": "Run",
     "Python.RandomNumberGeneration_NumPy.executor": "Run",
     "Python.RecentPurchaseHistory.executor": "Run",
@@ -142,6 +199,7 @@
       <workItem from="1763911424036" duration="12845000" />
       <workItem from="1764225053424" duration="14020000" />
       <workItem from="1765027793660" duration="7303000" />
+      <workItem from="1765116056506" duration="6117000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -215,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765037765657</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <option name="closed" value="true" />
+      <created>1765116084000</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765116084000</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +352,7 @@
     <SUITE FILE_PATH="coverage/LearningPy$SeabornVisualisationLibrary.coverage" NAME="SeabornVisualisationLibrary Coverage Results" MODIFIED="1764234680252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$NumpyBasics.coverage" NAME="NumpyBasics Coverage Results" MODIFIED="1763989045336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$PopulationGrowthInEcosystem_NumPy.coverage" NAME="PopulationGrowthInEcosystem_NumPy Coverage Results" MODIFIED="1764230042684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$JsonData_PANDAS.coverage" NAME="JsonData_PANDAS Coverage Results" MODIFIED="1765117608506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$PredictingEquipmentFailure_NumPy.coverage" NAME="PredictingEquipmentFailure_NumPy Coverage Results" MODIFIED="1764232788632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$Mathplotlib_Library.coverage" NAME="Mathplotlib_Library Coverage Results" MODIFIED="1764233798872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$GlossaryItem_OOP.coverage" NAME="GlossaryItem_OOP Coverage Results" MODIFIED="1762178621942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -299,6 +366,7 @@
     <SUITE FILE_PATH="coverage/LearningPy$OOP_Inheritance1.coverage" NAME="OOP_Inheritance1 Coverage Results" MODIFIED="1761933146246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$PaymentProcessor_EXECEPTIONS.coverage" NAME="PaymentProcessor_EXECEPTIONS Coverage Results" MODIFIED="1763646772086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$IO_csv.coverage" NAME="IO_csv Coverage Results" MODIFIED="1763985395258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPy$Preparing_Clean_Data_PANDAS.coverage" NAME="Preparing_Clean_Data_PANDAS Coverage Results" MODIFIED="1765119044216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$Food_Nutrition_Analyser_NumPy.coverage" NAME="Food_Nutrition_Analyser_NumPy Coverage Results" MODIFIED="1763998215729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$LotteryNumberGenerator_NumPy.coverage" NAME="LotteryNumberGenerator_NumPy Coverage Results" MODIFIED="1764229067170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPy$PandasLibrary.coverage" NAME="PandasLibrary Coverage Results" MODIFIED="1765037627042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
