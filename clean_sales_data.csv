@@ -1,0 +1,11 @@
+Product,UnitPrice,Quantity,City,TotalAmount
+Apples,110,12,New York,1320
+Bananas,95,7,Chicago,665
+Oranges,120,15,Los Angeles,1800
+Grapes,80,9,Miami,720
+Peaches,140,20,Houston,2800
+Bananas,75,10,New York,750
+Oranges,99,18,Chicago,1782
+Apples,130,5,Los Angeles,650
+Grapes,105,8,Miami,840
+Peaches,150,14,Houston,2100

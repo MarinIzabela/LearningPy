@@ -1,0 +1,11 @@
+Product,Price,Quantity,Date,City
+Apples,110,12,2023-10-01,New York
+Bananas,95,7,2023-10-02,Chicago
+Oranges,120,15,2023-10-03,Los Angeles
+Grapes,80,9,2023-10-04,Miami
+Peaches,140,20,2023-10-05,Houston
+Bananas,75,10,2023-10-06,New York
+Oranges,99,18,2023-10-07,Chicago
+Apples,130,5,2023-10-08,Los Angeles
+Grapes,105,8,2023-10-09,Miami
+Peaches,150,14,2023-10-10,Houston
